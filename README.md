@@ -1,1 +1,4 @@
 # AIR-QUALITY-SURVEILLANCE-ON-NEW-YORK-CITY-2022.
+
+ ## Abstract 
+ "Air Quality Surveillance in New York City" provides an overview of the study which focuses on the levels of air pollution in New York City. The research involved collecting air samples from various locations around the city and analyzing them for different pollutants. The findings revealed significant variations in air pollution levels across the city, with several possible pollution sources identified, including power plants, factories, automobiles, and bus terminals. The highest levels of pollution were found near power plants and factories. This study utilized visualizations in Rstudio, Python, and SQL to process city data, highlighting how different age groups are affected and presenting data values for various time periods.
